@@ -7,16 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>
-  Welcome to Year 1 of Charlie Ruff Memorial League, fuckers. 
+  <p> Welcome to Year 1 of Charlie Ruff Memorial League, fuckers.<p>
   
-  Named after our house dad Charlie Ruff, who still can’t believe he’sassociated with this circus.
+  <p> Named after our house dad Charlie Ruff, who still can’t believe he’sassociated with this circus.<p>
   
-  Twelve assholes, one trophy, and as always, our fearless commissioner continues his historic run of incompetence: losing two years straight, dodging punishments like it’s his full-time job, and somehow managing to screw up the league setup  every single season. 
+  <p>Twelve assholes, one trophy, and as always, our fearless commissioner continues his historic run of incompetence: losing two years straight, dodging punishments like it’s his full-time job, and somehow managing to screw up the league setup  every single season. <p>
 
-  Here’s to another year of groupchat chaos, petty rivalries, 
+   <p> Here’s to another year of groupchat chaos, petty rivalries, 
 garbage lineup decisions, arguments that last longer 
-than the actual NFL season, and Charlie wondering why the hell his name is still on this league.
+than the actual NFL season, and Charlie wondering why the hell his name is still on this league.  <p>
 
   </p>
 `;
